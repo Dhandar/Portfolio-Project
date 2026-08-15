@@ -9,7 +9,7 @@ export const profile = {
   linkedin: "https://linkedin.com/in/sush2000",
   // TODO: replace with your real LeetCode profile URL
   leetcode: "https://leetcode.com/u/Sushmita_Dhandar/",
-  resumeFileName: "Sushmita_Dhandar_Resume.pdf",
+  resumeFileName: "sushmita.pdf",
   summary:
     "Full Stack Developer with hands-on experience building and deploying production web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Skilled in JavaScript (ES6+), HTML5, CSS3, RESTful API development, JWT authentication, and Git version control. Completed a professional internship at Devotra Infotech delivering full-stack features in an Agile, remote team environment with Docker containerization and CI/CD pipelines. Strong foundation in Data Structures & Algorithms and Object-Oriented Programming.",
   heroSupport:

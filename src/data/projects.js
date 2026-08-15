@@ -21,24 +21,7 @@ export const projects = [
     demo: "",
     featured: true,
   },
-  {
-    id: "sigmagpt",
-    name: "SigmaGPT",
-    tag: "ChatGPT-Inspired AI Web App",
-    file: "SigmaGPT.jsx",
-    description:
-      "A conversational AI-style interface inspired by ChatGPT, focused on a clean chat experience powered by API integration.",
-    tech: ["React.js", "JavaScript", "HTML", "CSS", "API Integration"],
-    highlights: [
-      "Built a responsive chat interface with reusable React components.",
-      "Wired up API integration to handle conversational requests and responses.",
-      "Focused on a modern, distraction-free UI for reading and sending messages.",
-    ],
-    future: ["Conversation history & multiple threads", "Streaming responses"],
-    github: GITHUB_PROFILE,
-    demo: "",
-    featured: true,
-  },
+  
   {
     id: "simon-says",
     name: "Simon Says Game",
@@ -57,23 +40,7 @@ export const projects = [
     demo: "",
     featured: false,
   },
-  {
-    id: "code-practice-tracker",
-    name: "Code Practice Tracker",
-    tag: "DSA Progress Tracker",
-    file: "CodeTracker.jsx",
-    description:
-      "A productivity-focused React app for logging and tracking daily coding practice and DSA progress.",
-    tech: ["React.js", "JavaScript", "HTML", "CSS"],
-    highlights: [
-      "Built reusable React components to log practice sessions and topics covered.",
-      "Structured local state to track progress across DSA topics over time.",
-    ],
-    future: [],
-    github: GITHUB_PROFILE,
-    demo: "",
-    featured: false,
-  },
+  
   {
     id: "portfolio",
     name: "This Portfolio",
